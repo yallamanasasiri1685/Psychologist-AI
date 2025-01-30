@@ -57,6 +57,7 @@ Before you dive in, make sure you have the following installed:
 2.  **ChromaDB:** Stores and retrieves relevant context based on user input.
 3.  **Gemini (LLM):**  Powers the chatbot's responses, generating empathetic and contextually appropriate text.
 4.  **.env and `python-dotenv`:** Manages sensitive information like API keys securely.
+![image](https://github.com/user-attachments/assets/b9057e09-104e-4d63-8e2b-c4e9df4302e1)
 
 ## 📄 License 
 MIT License
