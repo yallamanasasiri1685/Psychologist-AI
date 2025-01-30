@@ -1,0 +1,7 @@
+streamlit
+langchain_community
+langchain
+chromadb
+langchain_text_splitters
+python-dotenv
+google-generativeai
